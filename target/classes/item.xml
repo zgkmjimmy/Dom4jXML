@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<item answertime="5" readtime="5" submittime="0" preparetime="0">
+  <data name="modelAudio" type="audio" duration="28" repeat="1" interval="1"><![CDATA[]]></data>
+  <data name="listenContent"><![CDATA[]]></data>
+  <group type="question">
+    <question answertime="3" readtime="2" submittime="0" preparetime="0" app_type="choice">
+      <data name="questionText" type="txt"><![CDATA[]]></data>
+      <data name="questionAudio" type="audio" duration="2" repeat="1" interval="0" disable="true">
+      </data>
+      <choice>
+        <choice type="txt"><![CDATA[]]></choice>
+        <choice type="txt"><![CDATA[]]></choice>
+        <choice type="txt"><![CDATA[]]></choice>
+      </choice>
+      <answer><![CDATA[]]></answer>
+      <knowledge><![CDATA[]]></knowledge>
+    </question>
+  </group>
+</item>
